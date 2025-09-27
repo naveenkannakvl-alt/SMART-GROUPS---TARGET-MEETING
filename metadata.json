@@ -1,0 +1,5 @@
+{
+  "name": "TARGET MEETING",
+  "description": "A web application for data entry and displaying leaderboards for Guest, Sales, and Leader counts. Access is restricted to authorized users.",
+  "requestFramePermissions": []
+}
